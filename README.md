@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Jannik
 
-![Profile Views](https://komarev.com/ghpvc/?username=DerJanniku&color=blueviolet&style=flat-square)
-
-I enjoy building systems, experimenting with new technologies, and bringing creative ideas to life. I focus on high-performance tools, game server extensions, and modern web applications. 🚀✨
+I enjoy building systems, experimenting with new technologies, and bringing creative ideas to life. I focus on high-performance tools, game server extensions, and modern web applications.
 
 ---
 
@@ -19,9 +17,9 @@ I enjoy building systems, experimenting with new technologies, and bringing crea
 
 ### 🛠️ What I do
 
-- **🎮 Minecraft Systems:** Development of custom plugins and server architectures (Paper/Spigot).
+- **☕ Minecraft Systems:** Development of custom plugins and server architectures (Paper/Spigot).
 - **🌐 Web Development:** Building responsive interfaces and tools using Next.js or Vue.js.
-- **🤖 Automation & AI:** Integrating local AI models and optimizing workflows.
+- **⚡ Automation & AI:** Integrating local AI models and optimizing workflows.
 
 ---
 
@@ -34,6 +32,8 @@ I enjoy building systems, experimenting with new technologies, and bringing crea
 ---
 
 ### 📊 Statistics
+
+![Profile Views](https://komarev.com/ghpvc/?username=DerJanniku&color=blueviolet&style=flat-square)
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=DerJanniku&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -52,5 +52,5 @@ I enjoy building systems, experimenting with new technologies, and bringing crea
 ---
 
 <p align="center">
-  <i>"Always building, always improving."</i> ✨
+  <i>"Always building, always improving."</i>
 </p>
