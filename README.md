@@ -47,7 +47,6 @@ I enjoy building systems, experimenting with new technologies, and bringing crea
 
 - **Discord:** jannichan 💬
 - **Fiverr:** [derjal](https://de.fiverr.com/s/xXgY29x) 💼
-- **Email:** jannik.maier.jm@proton.me 📧
 
 ---
 
